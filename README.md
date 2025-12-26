@@ -41,7 +41,7 @@ The solution prioritizes **precision, auditability, and reproducibility**, while
 - URL
 
 All identifiers are replaced with typed placeholders such as:
-[EMAIL] [PHONE] [NAME] [ADDRESS] [DOB] [PROVIDER] [APPT_ID] [INSURANCE_ID] [GOV_ID]
+```[EMAIL] [PHONE] [NAME] [ADDRESS] [DOB] [PROVIDER] [APPT_ID] [INSURANCE_ID] [GOV_ID]```
 ---
 
 ## What Is Explicitly NOT Scrubbed
@@ -181,6 +181,7 @@ With more time or tooling:
 
 This project demonstrates a **privacy-first, production-oriented preprocessing layer** suitable for women’s health journaling systems.  
 It emphasizes correctness, clarity, and safety over complexity, and is designed to be extended responsibly as downstream needs evolve.
+
 
 
 
