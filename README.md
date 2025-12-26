@@ -114,8 +114,8 @@ For each journal entry, the scrubber outputs:
 ⚠️ Raw PII values are **never written** to logs or output files.
 
 ---
-```
 ## Project Structure
+```
 pii_scrubber/
 ├── src/
 │ ├── init.py
@@ -181,6 +181,7 @@ With more time or tooling:
 
 This project demonstrates a **privacy-first, production-oriented preprocessing layer** suitable for women’s health journaling systems.  
 It emphasizes correctness, clarity, and safety over complexity, and is designed to be extended responsibly as downstream needs evolve.
+
 
 
 
